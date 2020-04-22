@@ -57,7 +57,6 @@ https://vimeo.com/307476021
 Granules are driven by gravity and topography forming an analogue particle system. A moving slanted plane and a grid of motorized stamps control the elements to form infinite variations of behaviors and patterns.
 
 ## Other research ##
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 * I2C read number (a protocol required in the parts to be able to connect to microbit): https://makecode.microbit.org/reference/pins/i2c-read-number
 * Plot analog pin Pressure-sensitive sensor: https://makecode.microbit.org/v0/60057-74487-03066-61710
 * How to use force sensing resistor: https://www.youtube.com/watch?v=rTO3U-0Njtw&t=270s
@@ -70,6 +69,8 @@ Alternate research (Fall-back measures):
 * Capacitive Touch Sensor: https://makecode.microbit.org/v1/13636-57179-46619-84909
 * IR proximity sensor: https://www.youtube.com/watch?v=qEMtCKfZOHw
 * Temperature Sensor and how to connect it to a microbit: https://www.elecfreaks.com/store/blog/post/microbit-experiment-07temperature-sensor-elecfreaks-mirco-bit-starter-kit-course.html
+
+Drawing machine inspiration: https://www.youtube.com/watch?v=wyolRywstkE
 
 ## Conceptual progress ##
 ### Area of interest ###
@@ -110,28 +111,28 @@ This fidget cube controls the x and y axis of the pen plotter. The 6 faces of th
 * Pen Plotter: <a href="https://core-electronics.com.au/makeblock-xy-plotter-robot-kit-electronic-version.html">Pen Plotter</a> | <a href="https://www.youtube.com/watch?v=xnZI0ovzb4c">DIY Pen Plotter</a>
 
 ### Final design concept: Philocaly *(Working Title)*  ###
-### Initial concept: Heart Rate Sensors ###
+![Image of Design Concept Sketch 4](/Images/DCS4.jpg)
+
+**Initial concept: Heart Rate Sensors**
 A heart rate controlled drawing machine that translate the heart rate by plotting pen to paper. The purpose of this design concept is to capture and artistic representation of stress and distress. 
 
 After some research, it might be too hard for me to use heart rate/pulse as the chosen biofeedback. The parts required to make this concept work requires Arduino and would require some time to learn (personally). I have decided that it might be better to come up with an alternative rather than learning a whole new program. 
 
-### Current concept: Pressure Sensor###
-Using pressure to control the drawing machine. Fulfils the same purpose but have more flexibility when it comes to prototyping. The current design concept utilises a stress ball to trigger the mechanics of the drawing machine. When held and squeezed, the data collected will trigger the motor to start drawing until the stress ball is let go.
+**Current concept: Pressure Sensor**
+Using pressure to control the drawing machine. Fulfils the same purpose but have more flexibility when it comes to prototyping. The current design concept utilises a stress ball to trigger the servo motors with extensions. When the interface is held and/or squeezed, the data will be translated to the servo motors to extend and retract. This extension motion will push the suspended drawing platform allowing the painting ball to move around the canvas organically. The purpose of this design concept is to capture the artistic representation of stress and distress of the user, hence the stress ball interface.
 
-SKETCH:
-### OTHER NOTES: ###
-A couple of things that might be figured out as we progress along in the prototyping phase (will be updated):
-
-There is a variety of ways to measure the pressure (will have to determine which is the best way)
-a. Plotting the analog pin pressure-sensitive sensor 
-b. Flex sensor 
-c. Thin-Film Pressure Sensor 
-d. Force Sensitive Resistor
+**Main Components (required/as thought of in ideation):**
+* Motors: <a href="https://www.jaycar.com.au/servo-motor-standard-6-volt-with-metal-gear-11kg/p/YM2765">Servo Motor</a> | <a href="">Stepper Motor</a>
 
 *	Shape of the stress “ball” to be determined (based on what works best with the chosen pressure sensor)
 *	Different variation of drawing based on the different range of pressure
-*	Current medium is pen to paper, might look into the effect of using paint as an medium etc. 
+*	Current medium is paint and paper. (Paint covered ball) 
 
+A couple of things that might be figured out as we progress along in the prototyping phase. There is a variety of ways to measure the pressure (will have to determine which is the best way, to be updated):
+* Plotting the analog pin pressure-sensitive sensor 
+* Flex sensor 
+* Thin-Film Pressure Sensor 
+* Force Sensitive Resistor
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
