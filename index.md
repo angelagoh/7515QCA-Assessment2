@@ -57,38 +57,45 @@ https://vimeo.com/307476021
 Granules are driven by gravity and topography forming an analogue particle system. A moving slanted plane and a grid of motorized stamps control the elements to form infinite variations of behaviors and patterns.
 
 ## Other research ##
+*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 * Plot analog pin Pressure-sensitive sensor: https://makecode.microbit.org/v0/60057-74487-03066-61710
 * How to use force sensing resistor: https://www.youtube.com/watch?v=rTO3U-0Njtw&t=270s
 * Using a Flex Sensor in makecode: https://www.youtube.com/watch?v=GOLHUK9Em-s
 * Stepper Motor vs Servo Motor: https://www.amci.com/industrial-automation-resources/plc-automation-tutorials/stepper-vs-servo/
 * Connecting stepper motor to microbit: https://www.youtube.com/watch?v=-WoPW_m19-Y
 
-
 Alternate research (Fall-back measures):
 * Capacitive Touch Sensor: https://makecode.microbit.org/v1/13636-57179-46619-84909
 * IR proximity sensor: https://www.youtube.com/watch?v=qEMtCKfZOHw
 * Temperature Sensor and how to connect it to a microbit: https://www.elecfreaks.com/store/blog/post/microbit-experiment-07temperature-sensor-elecfreaks-mirco-bit-starter-kit-course.html
 
-
-### *Brief resource name/description* ###
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
-
 ## Conceptual progress ##
+### Area of interest ###
+Visual and/or auditorial interaction with recorded biometric data.
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+A representation of distress and stress through recorded biofeedback.
 
-### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+### Design concept 1: Emotional Cube ###
+An LED cube with heart rate sensors on wristbands. This is an LED cube that vibrate, buzzes and flashes colour when there is a change to the heart rate of the user. The purpose of this emotional cube is to indicate a change in heart rate, signifying the possibility of distress. This could be used in a situation where the user have problem communicating their feelings – for example, pets, babies etc. This however, would require some research to be conducted. Standard, average heart rate should be determined and programmed accordingly. 
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+INSERT SKETCH: 
+OTHER NOTES: 
 
-### Design concept 2 ###
-*Put details here.*
+### Design concept 2: Tension Wristband ###
+DESCRIPTION:
+INSERT SKETCH:
+OTHER NOTES: 
 
-### Final design concept ###
+### Final design concept: Philocaly *(Working Title)*  ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+_Initial concept:_ A heart rate controlled drawing machine that translate the heart rate by plotting pen to paper. The purpose of this design concept is to capture and artistic representation of stress and distress. 
+
+After some research, it might be too hard for me to use heart rate/pulse as the chosen biofeedback. The parts required to make this concept work requires Arduino and would require some time to learn (personally). I have decided that it might be better to come up with an alternative rather than learning a whole new program. 
+
+_Current concept:_ Using pressure to control the drawing machine. Fulfils the same purpose but have more flexibility when it comes to prototyping. The current design concept utilises a stress ball to trigger the mechanics of the drawing machine. When held and squeezed, the data collected will trigger the motor to start drawing until the stress ball is let go.
+
+
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
