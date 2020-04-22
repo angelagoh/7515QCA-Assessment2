@@ -99,14 +99,13 @@ Using pressure to control the drawing machine. Fulfils the same purpose but have
 SKETCH:
 ### OTHER NOTES: ###
 A couple of things that might be figured out as we progress along in the prototyping phase (will be updated):
-*	There is a variety of ways to measure the pressure (will have to determine which is the best way)
+
+There is a variety of ways to measure the pressure (will have to determine which is the best way)
 a. Plotting the analog pin pressure-sensitive sensor 
-
 b. Flex sensor 
-
 c. Thin-Film Pressure Sensor 
-
 d. Force Sensitive Resistor
+
 *	Shape of the stress “ball” to be determined (based on what works best with the chosen pressure sensor)
 *	Different variation of drawing based on the different range of pressure
 *	Current medium is pen to paper, might look into the effect of using paint as an medium etc. 
