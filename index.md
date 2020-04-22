@@ -35,7 +35,8 @@ Aharon Ozery (2012). Freeze. Accessed April 19, 2020. http://www.art.org.il/5/ar
 ### Related project 4 ###
 *Four Cable Drawing Machine* by David Bynoe
 
-[![Image of Four Cable Drawing Machine](/Images/fourcabledrawingmachine.jpg](https://www.youtube.com/watch?v=hrsDBdnj5E8)
+![Image of Four Cable Drawing Machine](/Images/fourcabledrawingmachine.jpg
+(https://www.youtube.com/watch?v=hrsDBdnj5E8)
 
 David Bynoe (2013). Four Cable Drawing Machine. Accessed April 19 2020. http://dbynoe.blogspot.com/2013/12/four-cable-drawing-machine.html
 
