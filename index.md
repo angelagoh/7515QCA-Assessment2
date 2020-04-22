@@ -155,4 +155,10 @@ Ensure you include comments about the choices you've made along the way.*
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+* Determine which pressure sensor works the best
+* Determine the shape of the interface
+* Determine if there are alternative material when creating the interface (Water, slime, powder etc.)
+* Determine the number of servo motor, if more servo would create a more dynamic artwork
+* Determine the surface material of the drawing platform (What would a softer surface affect?)
+* Determine the number of painting ball, does it affect anything
+* Determine if there is a way to transmit the pressure data wirelessly
