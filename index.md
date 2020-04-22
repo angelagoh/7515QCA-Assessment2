@@ -57,7 +57,6 @@ https://vimeo.com/307476021
 Granules are driven by gravity and topography forming an analogue particle system. A moving slanted plane and a grid of motorized stamps control the elements to form infinite variations of behaviors and patterns.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 * Plot analog pin Pressure-sensitive sensor: https://makecode.microbit.org/v0/60057-74487-03066-61710
 * How to use force sensing resistor: https://www.youtube.com/watch?v=rTO3U-0Njtw&t=270s
 * Using a Flex Sensor in makecode: https://www.youtube.com/watch?v=GOLHUK9Em-s
