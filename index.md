@@ -79,25 +79,35 @@ Visual and/or auditorial interaction with recorded biometric data.
 A representation of distress and stress through recorded biofeedback.
 
 ### Design concept 1: Emotional Cube ###
-*(This is a visual and auditorial representation of distress)*
-
 ![Image of Design Concept Sketch 1](/Images/DCS1.jpg)
 
-An LED cube with heart rate sensors on wristbands. This is an LED cube that vibrate, buzzes and flashes colour when there is a change to the heart rate of the user. The purpose of this emotional cube is to indicate a change in heart rate, signifying the possibility of distress. This could be used in a situation where the user have problem communicating their feelings – for example, pets, babies etc. This however, would require some research to be conducted. Standard, average heart rate should be determined and programmed accordingly. 
+*Drawing is not propotionate to size, the cube propose in the ideation process is visualised to be at least 300x300x300 (mm).
 
-**Main Components (required/as thought of in planning stage):**
+An LED cube with heart rate sensors on wristbands. This is an LED cube that vibrate, buzzes and flashes colour when there is a change to the heart rate of the user. The purpose of this emotional cube is to indicate a change in heart rate, signifying the possibility of distress. This could be used in a situation where the user have problem communicating their feelings – for example, pets, babies etc. This however, would require some research to be conducted. Standard, average heart rate should be determined and programmed accordingly. This design concept would be a visual and auditorial representation of distress. 
+
+**Main Components (required/as thought of in ideation):**
 * Heart Rate Sensors: <a href="https://www.jaycar.com.au/heartbeat-sensor-module-for-arduino/p/XC3740">Heartbeat Sensor</a> | <a href="https://www.jaycar.com.au/medias/sys_master/images/images/9385907093534/XC3740-manualMain.pdf">Set up guide</a>
 * LED Strips: <a href="https://www.jaycar.com.au/rgb-led-flexible-strip-light/p/SL3942">RGB LED Flexible Strip</a>
 * Vibration Motors: <a href="https://www.jaycar.com.au/linker-vibration-sensor-module-for-arduino/p/XC4587">Linker Vibration Sensor Module</a> | <a href="https://www.elecfreaks.com/learn-en/microbitOctopus/output/octopus_ef04074.html">How to connect to microbit</a>
 * Piezzo Buzzer (from kit)
 * Exterial material for cube: <a href="https://www.protectivefilm.com.au/translucent-corflute-signage-sheet-2440-1220-5mm-900gsm">Translucent Corflute</a>
 
-### Design concept 2: Tension Wristband ###
-DESCRIPTION:
-A set of heart rate sensor wristbands, one with the heart rate sensor (Wristband A), one with the a receiver (Wristband B). Wristband B is design to tighten with when wristband A reads an increased pulse rate from the resting heart rate. The purpose of this tension wristband is to indicate body distress of the wearer of wristband A. This could be us
+### Design Concept 2: Tension Wrist Cuffs ###
+A heart rate sensing wristband (Wristband) and a receiver inflatable wrist cuff (Wrist Cuff). The inflatable wrist cuff is design to tighten with when the pulse sensing wristband reads an increased pulse rate from the resting heart rate. The higher the read, the tighter the cuffs. The purpose of this tension wristband is to indicate body distress of the wearer of the wristband. This design concept would be a tacticle representation of distress. 
 
-INSERT SKETCH:
-OTHER NOTES: 
+### Design Concept 3: Activation Fidget Cube ###
+![Image of Design Concept Sketch 3](/Images/DCS3.jpg)
+
+*Drawing is not propotionate to size, the fidget cube propose in the ideation process is visualised to be at least 30x30x30 (mm). Actual interface design to be determined.
+
+This fidget cube controls the x and y axis of the pen plotter. The 6 faces of the cube will have a variation of touch sensitive trigger points, the point of activation will trigger the pen plotter moving in accordance to the directional movement of the set interface creating a distress inspired drawing. This design concept would be a visual representation of distress.
+
+**Main Components (required/as thought of in ideation):**
+* Fidget Cube: <a href"https://www.youtube.com/watch?v=g4L_B4tBiNo">Fidget Cube Frame Work</a>
+* Switches: <a href"https://core-electronics.com.au/mini-soft-touch-push-button-switches-6mm-square-x-10-pack.html">Mini Soft Touch Push-button Switches</a> 
+* Gesture: <a href="https://www.jaycar.com.au/hand-gesture-sensor-module-for-arduino/p/XC3742">Hand Gesture Sensor Module</a>
+* Touch Surfaces: <a href="https://core-electronics.com.au/mini-touch-kit.html>Mini Touch Sensor</a>
+* Pen Plotter: <a href="https://core-electronics.com.au/makeblock-xy-plotter-robot-kit-electronic-version.html">Pen Plotter</a> | <a href="https://www.youtube.com/watch?v=xnZI0ovzb4c">DIY Pen Plotter</a>
 
 ### Final design concept: Philocaly *(Working Title)*  ###
 ### Initial concept: Heart Rate Sensors ###
