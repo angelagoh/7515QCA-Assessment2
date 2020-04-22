@@ -43,7 +43,7 @@ David Bynoe (2013). Four Cable Drawing Machine. Accessed April 19 2020. http://d
 ### Related project 5 ###
 *CYMATICS: SCIENCE VS MUSIC* by Nigel Stanford
 
-![Image of Cymatics](/Images/Cymatics.PNG)(https://www.youtube.com/watch?v=Q3oItpVa9fs)
+[![Image of Cymatics](/Images/Cymatics.PNG)](https://www.youtube.com/watch?v=Q3oItpVa9fs)
 
 https://www.youtube.com/watch?v=Q3oItpVa9fs
 
@@ -52,7 +52,7 @@ Certain frequencies vibrate the metal plate in such a way that it creates areas 
 ### Related project 6 ###
 *Particle Flow* by Neoanalog
 
-![Image of Particle Flow](/Images/ParticleFlow.PNG)(https://vimeo.com/307476021)
+[![Image of Particle Flow](/Images/ParticleFlow.PNG)](https://vimeo.com/307476021)
 
 https://vimeo.com/307476021
 
