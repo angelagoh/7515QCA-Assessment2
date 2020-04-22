@@ -11,9 +11,11 @@ Philocaly (n.) the love of beauty in all things.
 
 http://www.kimsooja.com/projects_2016_MMCA_Archive-of-Mind.html
 
-![Image](missingimage.png)
+![Image of Archive of Mind](/Images/Archiveofmind.jpg)
 
-This project is related to mine because *insert reasons here*.
+Kimsooja (2016). Archive of Mind. Accessed April 19, 2020. http://www.kimsooja.com/projects_2016_MMCA_Archive-of-Mind.html#
+
+Archive of Mind is a participatory installation that builds over the course of the exhibition. Through the collaboration of audience to form a lump of clay into spheres at a 19-meter-long elliptical wooden table, which doubles as a canvas. The process of 
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
