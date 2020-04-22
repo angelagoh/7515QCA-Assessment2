@@ -58,6 +58,18 @@ Granules are driven by gravity and topography forming an analogue particle syste
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+* Plot analog pin Pressure-sensitive sensor: https://makecode.microbit.org/v0/60057-74487-03066-61710
+* How to use force sensing resistor: https://www.youtube.com/watch?v=rTO3U-0Njtw&t=270s
+* Using a Flex Sensor in makecode: https://www.youtube.com/watch?v=GOLHUK9Em-s
+* Stepper Motor vs Servo Motor: https://www.amci.com/industrial-automation-resources/plc-automation-tutorials/stepper-vs-servo/
+* Connecting stepper motor to microbit: https://www.youtube.com/watch?v=-WoPW_m19-Y
+
+
+Alternate research (Fall-back measures):
+* Capacitive Touch Sensor: https://makecode.microbit.org/v1/13636-57179-46619-84909
+* IR proximity sensor: https://www.youtube.com/watch?v=qEMtCKfZOHw
+* Temperature Sensor and how to connect it to a microbit: https://www.elecfreaks.com/store/blog/post/microbit-experiment-07temperature-sensor-elecfreaks-mirco-bit-starter-kit-course.html
+
 
 ### *Brief resource name/description* ###
 
