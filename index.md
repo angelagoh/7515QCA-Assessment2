@@ -103,10 +103,10 @@ A heart rate sensing wristband (Wristband) and a receiver inflatable wrist cuff 
 This fidget cube controls the x and y axis of the pen plotter. The 6 faces of the cube will have a variation of touch sensitive trigger points, the point of activation will trigger the pen plotter moving in accordance to the directional movement of the set interface creating a distress inspired drawing. This design concept would be a visual representation of distress.
 
 **Main Components (required/as thought of in ideation):**
-* Fidget Cube: <a href"https://www.youtube.com/watch?v=g4L_B4tBiNo">Fidget Cube Frame Work</a>
-* Switches: <a href"https://core-electronics.com.au/mini-soft-touch-push-button-switches-6mm-square-x-10-pack.html">Mini Soft Touch Push-button Switches</a> 
+* Fidget Cube: <a href="https://www.youtube.com/watch?v=g4L_B4tBiNo">Fidget Cube Frame Work</a>
+* Switches: <a href="https://core-electronics.com.au/mini-soft-touch-push-button-switches-6mm-square-x-10-pack.html">Mini Soft Touch Push-button Switches</a> 
 * Gesture: <a href="https://www.jaycar.com.au/hand-gesture-sensor-module-for-arduino/p/XC3742">Hand Gesture Sensor Module</a>
-* Touch Surfaces: <a href="https://core-electronics.com.au/mini-touch-kit.html>Mini Touch Sensor</a>
+* Touch Surfaces: <a href="https://core-electronics.com.au/mini-touch-kit.html">Mini Touch Sensor</a>
 * Pen Plotter: <a href="https://core-electronics.com.au/makeblock-xy-plotter-robot-kit-electronic-version.html">Pen Plotter</a> | <a href="https://www.youtube.com/watch?v=xnZI0ovzb4c">DIY Pen Plotter</a>
 
 ### Final design concept: Philocaly *(Working Title)*  ###
