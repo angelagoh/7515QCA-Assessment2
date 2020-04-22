@@ -88,13 +88,25 @@ INSERT SKETCH:
 OTHER NOTES: 
 
 ### Final design concept: Philocaly *(Working Title)*  ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
-_Initial concept:_ A heart rate controlled drawing machine that translate the heart rate by plotting pen to paper. The purpose of this design concept is to capture and artistic representation of stress and distress. 
+### Initial concept: Heart Rate Sensors ###
+A heart rate controlled drawing machine that translate the heart rate by plotting pen to paper. The purpose of this design concept is to capture and artistic representation of stress and distress. 
 
 After some research, it might be too hard for me to use heart rate/pulse as the chosen biofeedback. The parts required to make this concept work requires Arduino and would require some time to learn (personally). I have decided that it might be better to come up with an alternative rather than learning a whole new program. 
 
-_Current concept:_ Using pressure to control the drawing machine. Fulfils the same purpose but have more flexibility when it comes to prototyping. The current design concept utilises a stress ball to trigger the mechanics of the drawing machine. When held and squeezed, the data collected will trigger the motor to start drawing until the stress ball is let go.
+### Current concept: Pressure Sensor###
+Using pressure to control the drawing machine. Fulfils the same purpose but have more flexibility when it comes to prototyping. The current design concept utilises a stress ball to trigger the mechanics of the drawing machine. When held and squeezed, the data collected will trigger the motor to start drawing until the stress ball is let go.
 
+SKETCH:
+### OTHER NOTES: ###
+A couple of things that might be figured out as we progress along in the prototyping phase (will be updated):
+*	There is a variety of ways to measure the pressure (will have to determine which is the best way)
+**	Plotting the analog pin pressure-sensitive sensor 
+**	Flex sensor 
+**	Thin-Film Pressure Sensor 
+**	Force Sensitive Resistor
+*	Shape of the stress “ball” to be determined (based on what works best with the chosen pressure sensor)
+*	Different variation of drawing based on the different range of pressure
+*	Current medium is pen to paper, might look into the effect of using paint as an medium etc. 
 
 
 ### Interaction flowchart ###
