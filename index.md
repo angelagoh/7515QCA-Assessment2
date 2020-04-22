@@ -81,7 +81,7 @@ A representation of distress and stress through recorded biofeedback.
 ### Design concept 1: Emotional Cube ###
 *(This is a visual and auditorial representation of distress)*
 
-![Image of Sketch 1](/Images/Sketch1.jpg)
+![Image of Design Concept Sketch 1](/Images/DCS1.jpg)
 
 An LED cube with heart rate sensors on wristbands. This is an LED cube that vibrate, buzzes and flashes colour when there is a change to the heart rate of the user. The purpose of this emotional cube is to indicate a change in heart rate, signifying the possibility of distress. This could be used in a situation where the user have problem communicating their feelings – for example, pets, babies etc. This however, would require some research to be conducted. Standard, average heart rate should be determined and programmed accordingly. 
 
