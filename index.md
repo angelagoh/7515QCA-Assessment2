@@ -62,6 +62,7 @@ Granules are driven by gravity and topography forming an analogue particle syste
 * How to use force sensing resistor: https://www.youtube.com/watch?v=rTO3U-0Njtw&t=270s
 * Using a Flex Sensor in makecode: https://www.youtube.com/watch?v=GOLHUK9Em-s
 * Stepper Motor vs Servo Motor: https://www.amci.com/industrial-automation-resources/plc-automation-tutorials/stepper-vs-servo/
+* Controlling rotation and speed of a motor: https://www.youtube.com/watch?v=be-MBFKH8YU
 * Connecting stepper motor to microbit: https://www.youtube.com/watch?v=-WoPW_m19-Y
 
 Alternate research (Fall-back measures):
@@ -84,6 +85,8 @@ OTHER NOTES:
 
 ### Design concept 2: Tension Wristband ###
 DESCRIPTION:
+A set of heart rate sensor wristbands, one with the heart rate sensor (Wristband A), one with the a receiver (Wristband B). Wristband B is design to tighten with when wristband A reads an increased pulse rate from the resting heart rate. The purpose of this tension wristband is to indicate body distress of the wearer of wristband A. This could be us
+
 INSERT SKETCH:
 OTHER NOTES: 
 
