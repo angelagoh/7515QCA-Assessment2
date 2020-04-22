@@ -79,17 +79,18 @@ Visual and/or auditorial interaction with recorded biometric data.
 A representation of distress and stress through recorded biofeedback.
 
 ### Design concept 1: Emotional Cube ###
-*this is a visual and auditorial representation of distress*
-INSERT SKETCH: 
+*(This is a visual and auditorial representation of distress)*
+
+![Image of Sketch 1](/Images/ADA.jpg)
 
 An LED cube with heart rate sensors on wristbands. This is an LED cube that vibrate, buzzes and flashes colour when there is a change to the heart rate of the user. The purpose of this emotional cube is to indicate a change in heart rate, signifying the possibility of distress. This could be used in a situation where the user have problem communicating their feelings – for example, pets, babies etc. This however, would require some research to be conducted. Standard, average heart rate should be determined and programmed accordingly. 
 
-## OTHER NOTES: ##
-Main Components:
-* Heart Rate Sensors with wristbands: <a href="https://www.jaycar.com.au/heartbeat-sensor-module-for-arduino/p/XC3740">Heartbeat Sensor</a> | <a href="https://www.jaycar.com.au/medias/sys_master/images/images/9385907093534/XC3740-manualMain.pdf">Set up guide</a>
-* LED Strips: 
-* Vibration Motors: <a href="https://www.jaycar.com.au/linker-vibration-sensor-module-for-arduino/p/XC4587>Linker Vibration Sensor Module</a> | <a href="https://www.elecfreaks.com/learn-en/microbitOctopus/output/octopus_ef04074.html">How to connect to microbit</a>
+**Main Components(as thought of in planning stage):**
+* Heart Rate Sensors: <a href="https://www.jaycar.com.au/heartbeat-sensor-module-for-arduino/p/XC3740">Heartbeat Sensor</a> | <a href="https://www.jaycar.com.au/medias/sys_master/images/images/9385907093534/XC3740-manualMain.pdf">Set up guide</a>
+* LED Strips: <a href="https://www.jaycar.com.au/rgb-led-flexible-strip-light/p/SL3942">RGB LED Flexible Strip</a>
+* Vibration Motors: <a href="https://www.jaycar.com.au/linker-vibration-sensor-module-for-arduino/p/XC4587">Linker Vibration Sensor Module</a> | <a href="https://www.elecfreaks.com/learn-en/microbitOctopus/output/octopus_ef04074.html">How to connect to microbit</a>
 * Piezzo Buzzer (from kit)
+* Translucent corflute to create cube: <a href="https://www.protectivefilm.com.au/translucent-corflute-signage-sheet-2440-1220-5mm-900gsm">Buy them here</a>
 
 ### Design concept 2: Tension Wristband ###
 DESCRIPTION:
