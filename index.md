@@ -9,7 +9,7 @@ Philocaly (n.) the love of beauty in all things.
 ### Related project 1 ###
 *Archive of Mind* by Kimsooja
 
-![Image of Archive of Mind](/Images/Archiveofmind.jpg)
+![Image of Archive of Mind](/Images/Archiveofmind.jpg | width=700)
 
 Kimsooja (2016). Archive of Mind. Accessed April 19, 2020. http://www.kimsooja.com/projects_2016_MMCA_Archive-of-Mind.html#
 
@@ -18,7 +18,7 @@ Archive of Mind is a participatory installation that builds over the course of t
 ### Related project 2 ###
 *ADA* by Karina Smigla-Bobinski
 
-![Image of ADA](/Images/ADA.jpg)
+![Image of ADA](/Images/ADA.jpg | width=700)
 
 Karina Smigla-Bobinski (2010). ADA. Accessed April 19, 2020. https://www.smigla-bobinski.com/english/works/ADA/
 
@@ -27,7 +27,7 @@ ADA is a giant interactive analogue installation, featuring a huge helium balloo
 ### Related project 3 ###
 *Freeze* by Aharon Ozery
 
-![Image of Freeze](/Images/Freeze.jpg)
+![Image of Freeze](/Images/Freeze.jpg | width=700)
 
 Aharon Ozery (2012). Freeze. Accessed April 19, 2020. http://www.art.org.il/5/artist/aharon-ozery?en
 
@@ -35,7 +35,7 @@ Aharon Ozery (2012). Freeze. Accessed April 19, 2020. http://www.art.org.il/5/ar
 ### Related project 4 ###
 *Four Cable Drawing Machine* by David Bynoe
 
-[![Image of Four Cable Drawing Machine](/Images/fourcabledrawingmachine.jpg)](https://www.youtube.com/watch?v=hrsDBdnj5E8)
+[![Image of Four Cable Drawing Machine](/Images/fourcabledrawingmachine.jpg | width=700)](https://www.youtube.com/watch?v=hrsDBdnj5E8)
 
 David Bynoe (2013). Four Cable Drawing Machine. Accessed April 19 2020. http://dbynoe.blogspot.com/2013/12/four-cable-drawing-machine.html
 
@@ -43,7 +43,7 @@ David Bynoe (2013). Four Cable Drawing Machine. Accessed April 19 2020. http://d
 ### Related project 5 ###
 *CYMATICS: SCIENCE VS MUSIC* by Nigel Stanford
 
-[![Image of Cymatics](/Images/Cymatics.PNG)](https://www.youtube.com/watch?v=Q3oItpVa9fs)
+[![Image of Cymatics](/Images/Cymatics.PNG | width=700)](https://www.youtube.com/watch?v=Q3oItpVa9fs)
 
 https://www.youtube.com/watch?v=Q3oItpVa9fs
 
@@ -52,7 +52,7 @@ Certain frequencies vibrate the metal plate in such a way that it creates areas 
 ### Related project 6 ###
 *Particle Flow* by Neoanalog
 
-[![Image of Particle Flow](/Images/ParticleFlow.PNG)](https://vimeo.com/307476021)
+[![Image of Particle Flow](/Images/ParticleFlow.PNG | width=700)](https://vimeo.com/307476021)
 
 https://vimeo.com/307476021
 
