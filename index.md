@@ -43,7 +43,7 @@ David Bynoe (2013). Four Cable Drawing Machine. Accessed April 19 2020. http://d
 ### Related project 5 ###
 *CYMATICS: SCIENCE VS MUSIC* by Nigel Stanford
 
-![Image of Cymatics](/Images/Archiveofmind.jpg)
+![Image of Cymatics](/Images/Cymatics.PNG)
 
 https://www.youtube.com/watch?v=Q3oItpVa9fs
 
