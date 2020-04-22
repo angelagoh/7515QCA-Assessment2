@@ -58,6 +58,7 @@ Granules are driven by gravity and topography forming an analogue particle syste
 
 ## Other research ##
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+* I2C read number (a protocol required in the parts to be able to connect to microbit): https://makecode.microbit.org/reference/pins/i2c-read-number
 * Plot analog pin Pressure-sensitive sensor: https://makecode.microbit.org/v0/60057-74487-03066-61710
 * How to use force sensing resistor: https://www.youtube.com/watch?v=rTO3U-0Njtw&t=270s
 * Using a Flex Sensor in makecode: https://www.youtube.com/watch?v=GOLHUK9Em-s
@@ -78,10 +79,17 @@ Visual and/or auditorial interaction with recorded biometric data.
 A representation of distress and stress through recorded biofeedback.
 
 ### Design concept 1: Emotional Cube ###
+*this is a visual and auditorial representation of distress*
+INSERT SKETCH: 
+
 An LED cube with heart rate sensors on wristbands. This is an LED cube that vibrate, buzzes and flashes colour when there is a change to the heart rate of the user. The purpose of this emotional cube is to indicate a change in heart rate, signifying the possibility of distress. This could be used in a situation where the user have problem communicating their feelings – for example, pets, babies etc. This however, would require some research to be conducted. Standard, average heart rate should be determined and programmed accordingly. 
 
-INSERT SKETCH: 
-OTHER NOTES: 
+## OTHER NOTES: ##
+Main Components:
+* Heart Rate Sensors with wristbands: <a href="https://www.jaycar.com.au/heartbeat-sensor-module-for-arduino/p/XC3740">Heartbeat Sensor</a> | <a href="https://www.jaycar.com.au/medias/sys_master/images/images/9385907093534/XC3740-manualMain.pdf">Set up guide</a>
+* LED Strips: 
+* Vibration Motors: <a href="https://www.jaycar.com.au/linker-vibration-sensor-module-for-arduino/p/XC4587>Linker Vibration Sensor Module</a> | <a href="https://www.elecfreaks.com/learn-en/microbitOctopus/output/octopus_ef04074.html">How to connect to microbit</a>
+* Piezzo Buzzer (from kit)
 
 ### Design concept 2: Tension Wristband ###
 DESCRIPTION:
