@@ -114,11 +114,13 @@ This fidget cube controls the x and y axis of the pen plotter. The 6 faces of th
 ![Image of Design Concept Sketch 4](/Images/DCS4.jpg)
 
 **Initial concept: Heart Rate Sensors**
+
 A heart rate controlled drawing machine that translate the heart rate by plotting pen to paper. The purpose of this design concept is to capture and artistic representation of stress and distress. 
 
 After some research, it might be too hard for me to use heart rate/pulse as the chosen biofeedback. The parts required to make this concept work requires Arduino and would require some time to learn (personally). I have decided that it might be better to come up with an alternative rather than learning a whole new program. 
 
 **Current concept: Pressure Sensor**
+
 Using pressure to control the drawing machine. Fulfils the same purpose but have more flexibility when it comes to prototyping. The current design concept utilises a stress ball to trigger the servo motors with extensions. When the interface is held and/or squeezed, the data will be translated to the servo motors to extend and retract. This extension motion will push the suspended drawing platform allowing the painting ball to move around the canvas organically. The purpose of this design concept is to capture the artistic representation of stress and distress of the user, hence the stress ball interface.
 
 **Main Components (required/as thought of in ideation):**
