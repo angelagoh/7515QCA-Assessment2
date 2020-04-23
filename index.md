@@ -148,17 +148,11 @@ Waiting on the flex sensor to arrive in the mail, in the mean time have tried te
 
 <img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/IMG_0795.jpg" width=300/><img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/IMG_1606.jpg" width=300/><img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/IMG_1375.jpg" width=300/>
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
+In this process there are a lot of trial and error, as there are a few components to the design concept that I am unfamiliar with it has taken a while to learn how to connect and test if they are working with the Micro:bit. The servo motor requires 4.5V - 6v to power, and I have had to get an 5v power breadboard to be added into the circuit as seen in the images above. At this stage, the servo is moving however the movement are weak and I am currently solving connection problem to ensure power gets supplied to the servo.
 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+<a href="https://vimeo.com/410909754"><img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/IMG_4580.jpg" width=900/></a>
 
-![Image](missingimage.png)
-
-## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+This is the suspended drawing platform, where the servo motors will come in contact from the bottom. This "push" movement from the servo extension will enable the platform to tilt accordingly to how the interface is being held, moving the steel balls (will be covered in paint).
 
 ## Next steps ##
 * Determine which pressure sensor works the best
