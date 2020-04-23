@@ -7,7 +7,7 @@ Philocaly (n.) the love of beauty in all things.
 ### Related project 1 ###
 *Archive of Mind* by Kimsooja
 
-![Image of Archive of Mind](/Images/Archiveofmind.jpg)
+<img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/Archiveofmind.jpg" width=800/>
 
 Kimsooja (2016). Archive of Mind. Accessed April 19, 2020. http://www.kimsooja.com/projects_2016_MMCA_Archive-of-Mind.html#
 
@@ -16,7 +16,7 @@ Archive of Mind is a participatory installation that builds over the course of t
 ### Related project 2 ###
 *ADA* by Karina Smigla-Bobinski
 
-![Image of ADA](/Images/ADA.jpg)
+<img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/ADA.jpg" width=800/>
 
 Karina Smigla-Bobinski (2010). ADA. Accessed April 19, 2020. https://www.smigla-bobinski.com/english/works/ADA/
 
@@ -25,7 +25,7 @@ ADA is a giant interactive analogue installation, featuring a huge helium balloo
 ### Related project 3 ###
 *Freeze* by Aharon Ozery
 
-![Image of Freeze](/Images/Freeze.jpg)
+<img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/Freeze.jpg" width=800/>
 
 Aharon Ozery (2012). Freeze. Accessed April 19, 2020. http://www.art.org.il/5/artist/aharon-ozery?en
 
@@ -33,7 +33,7 @@ Aharon Ozery (2012). Freeze. Accessed April 19, 2020. http://www.art.org.il/5/ar
 ### Related project 4 ###
 *Four Cable Drawing Machine* by David Bynoe
 
-[![Image of Four Cable Drawing Machine](/Images/fourcabledrawingmachine.jpg)](https://www.youtube.com/watch?v=hrsDBdnj5E8)
+<img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/fourcabledrawingmachine.jpg" width=800/>
 
 David Bynoe (2013). Four Cable Drawing Machine. Accessed April 19 2020. http://dbynoe.blogspot.com/2013/12/four-cable-drawing-machine.html
 
@@ -41,7 +41,7 @@ David Bynoe (2013). Four Cable Drawing Machine. Accessed April 19 2020. http://d
 ### Related project 5 ###
 *CYMATICS: SCIENCE VS MUSIC* by Nigel Stanford
 
-[![Image of Cymatics](/Images/Cymatics.PNG)](https://www.youtube.com/watch?v=Q3oItpVa9fs)
+<a href="https://www.youtube.com/watch?v=Q3oItpVa9fs"><img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/Cymatics.PNG" width=800/></a>
 
 https://www.youtube.com/watch?v=Q3oItpVa9fs
 
@@ -50,7 +50,7 @@ Certain frequencies vibrate the metal plate in such a way that it creates areas 
 ### Related project 6 ###
 *Particle Flow* by Neoanalog
 
-[![Image of Particle Flow](/Images/ParticleFlow.PNG)](https://vimeo.com/307476021)
+<a href="https://vimeo.com/307476021"><img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/ParticleFlow.PNG" width=800/></a>
 
 https://vimeo.com/307476021
 
@@ -141,6 +141,9 @@ A couple of things that might be figured out as we progress along in the prototy
 ![Image of Interaction Flowchart](/Images/interactionfc.png)
 
 ## Physical experimentation documentation ##
+
+Waiting on the flex sensor to arrive in the mail, in the mean time have tried testing the interface with switches. 
+
 
 *In this section, show your progress including whichever of the following are appropriate for your project at this point.
 a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
