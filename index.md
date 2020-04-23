@@ -144,6 +144,9 @@ A couple of things that might be figured out as we progress along in the prototy
 
 Waiting on the flex sensor to arrive in the mail, in the mean time have tried testing the interface with switches. 
 
+<img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/Testcode1.png" width=450/><img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/testcode2.png" width=450/>
+
+<img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/IMG_0795.jpg" width=300/><img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/IMG_1606.jpg" width=300/><img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/IMG_1375.jpg" width=300/>
 
 *In this section, show your progress including whichever of the following are appropriate for your project at this point.
 a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
