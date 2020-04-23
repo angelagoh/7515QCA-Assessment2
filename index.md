@@ -142,7 +142,7 @@ A couple of things that might be figured out as we progress along in the prototy
 
 ## Physical experimentation documentation ##
 
-Waiting on the flex sensor to arrive in the mail, in the mean time have tried testing the interface with switches. 
+Waiting on the flex sensor to arrive in the mail, in the mean time have tried testing the interface with switches.
 
 <img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/Testcode1.png" width=450/><img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/testcode2.png" width=450/>
 
@@ -151,6 +151,7 @@ Waiting on the flex sensor to arrive in the mail, in the mean time have tried te
 In this process there are a lot of trial and error, as there are a few components to the design concept that I am unfamiliar with it has taken a while to learn how to connect and test if they are working with the Micro:bit. The servo motor requires 4.5V - 6v to power, and I have had to get an 5v power breadboard to be added into the circuit as seen in the images above. At this stage, the servo is moving however the movement are weak and I am currently solving connection problem to ensure power gets supplied to the servo.
 
 <a href="https://vimeo.com/410909754"><img src="https://github.com/angelagoh/7515QCA-Assessment2/blob/master/Images/IMG_4580.jpg" width=900/></a>
+Click image to see the movement test. 
 
 This is the suspended drawing platform, where the servo motors will come in contact from the bottom. This "push" movement from the servo extension will enable the platform to tilt accordingly to how the interface is being held, moving the steel balls (will be covered in paint).
 
